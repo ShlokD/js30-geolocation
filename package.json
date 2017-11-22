@@ -1,0 +1,14 @@
+{
+  "name": "geo-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/location.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\" --https --tunnel -proto tcp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.5"
+  }
+}
